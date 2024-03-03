@@ -17,6 +17,8 @@ public class ModItems {
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
         entries.add(RUBY);
         entries.add(RAW_RUBY);
+    }
+    private static void addItemsToFoodAndDrinkItemGroup(FabricItemGroupEntries entries) {
         entries.add(BEER);
     }
     private static Item registerItem(String name, Item item) {
@@ -26,5 +28,7 @@ public class ModItems {
         ModPierwszyBartosza.LOGGER.info("Registering Mod Items for " + ModPierwszyBartosza.MOD_ID);
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(ModItems::addItemsToIngredientItemGroup);
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.FOOD_AND_DRINK).register(ModItems::addItemsToFoodAndDrinkItemGroup);
+
     }
 }
