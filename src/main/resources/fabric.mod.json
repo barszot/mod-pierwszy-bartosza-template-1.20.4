@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "mod-pierwszy-bartosza",
+	"version": "${version}",
+	"name": "mod pierwszy bartosza",
+	"description": "This is Bartosz's first Minecraft mode!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/mod-pierwszy-bartosza/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.bartosz.mod_pierwszy_bartosza.ModPierwszyBartosza"
+		],
+		"client": [
+			"net.bartosz.mod_pierwszy_bartosza.ModPierwszyBartoszaClient"
+		],
+		"fabric-datagen": [
+			"net.bartosz.mod_pierwszy_bartosza.ModPierwszyBartoszaDataGenerator"
+		]
+	},
+	"mixins": [
+		"mod-pierwszy-bartosza.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
