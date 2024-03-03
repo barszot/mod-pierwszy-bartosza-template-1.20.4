@@ -11,6 +11,5 @@ public class ModPierwszyBartosza implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Hello Fabric world!");
 	}
 }
