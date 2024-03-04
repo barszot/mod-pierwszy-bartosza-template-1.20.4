@@ -17,6 +17,7 @@ public class ModItems {
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
         entries.add(RUBY);
         entries.add(RAW_RUBY);
+
     }
     private static void addItemsToFoodAndDrinkItemGroup(FabricItemGroupEntries entries) {
         entries.add(BEER);

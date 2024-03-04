@@ -1,6 +1,7 @@
 package net.bartosz.mod_pierwszy_bartosza.item;
 
 import net.bartosz.mod_pierwszy_bartosza.ModPierwszyBartosza;
+import net.bartosz.mod_pierwszy_bartosza.block.ModBlocks;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -13,10 +14,12 @@ public class ModItemGroups {
     public static final ItemGroup RUBY_GROUP = Registry.register(Registries.ITEM_GROUP,
             new Identifier(ModPierwszyBartosza.MOD_ID, "ruby"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.ruby"))
-                    .icon(() -> new ItemStack(ModItems.RUBY)).entries(((displayContext, entries) -> {
+                    .icon(() -> new ItemStack(ModItems.RUBY)).entries((displayContext, entries) -> {
                         entries.add(ModItems.RUBY);
                         entries.add(ModItems.RAW_RUBY);
-                    })).build());
+                        entries.add(ModBlocks.RUBY_BLOCK);
+                        entries.add(ModBlocks.RAW_RUBY_BLOCK);
+                    }).build());
     public static void registerItemGroups() {
         ModPierwszyBartosza.LOGGER.info("Registering Item Groups for " + ModPierwszyBartosza.MOD_ID);
     }

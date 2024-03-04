@@ -1,7 +1,9 @@
 {
   "item.mod-pierwszy-bartosza.ruby": "Ruby",
-  "item.mod-pierwszy-bartosza.raw_ruby": "Raw ruby",
+  "item.mod-pierwszy-bartosza.raw_ruby": "Raw Ruby",
   "item.mod-pierwszy-bartosza.beer": "Beer",
+  "block.mod-pierwszy-bartosza.ruby_block": "Block of Ruby",
+  "block.mod-pierwszy-bartosza.raw_ruby_block": "Block of Raw Ruby",
   "itemgroup.ruby": "Ruby Tutorial Group"
 
 
