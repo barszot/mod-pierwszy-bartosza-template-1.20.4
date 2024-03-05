@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mod-pierwszy-bartosza:ruby"
+    }
+  },
+  "result": {
+    "item": "mod-pierwszy-bartosza:ruby_block"
+  }
+}

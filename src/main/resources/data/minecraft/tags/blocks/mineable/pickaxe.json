@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "mod-pierwszy-bartosza:ruby_block",
+    "mod-pierwszy-bartosza:raw_ruby_block",
+    "mod-pierwszy-bartosza:ruby_ore",
+    "mod-pierwszy-bartosza:deepslate_ruby_ore",
+    "mod-pierwszy-bartosza:nether_ruby_ore",
+    "mod-pierwszy-bartosza:end_stone_ruby_ore"
+  ]
+}
