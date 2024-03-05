@@ -9,4 +9,5 @@ public class ModFoodComponents {
             .alwaysEdible().statusEffect(new StatusEffectInstance(StatusEffects.LUCK , 200), 1.0f).build();
     public static final FoodComponent BEER = new FoodComponent.Builder().hunger(-2).saturationModifier(0.25f)
             .alwaysEdible().statusEffect(new StatusEffectInstance(StatusEffects.NAUSEA, 600), 1.0f).statusEffect(new StatusEffectInstance(StatusEffects.LUCK, 600), 1.0f).build();
+
 }

@@ -11,10 +11,13 @@
   "block.mod-pierwszy-bartosza.nether_ruby_ore": "Nether Ruby Ore",
   "block.mod-pierwszy-bartosza.end_stone_ruby_ore": "End Stone Ruby Ore",
 
-  "block.mod-pierwszy-bartosza.metal_detector": "Metal Detector",
+  "item.mod-pierwszy-bartosza.metal_detector": "Metal Detector",
   "block.mod-pierwszy-bartosza.sound_block": "Sound Block",
 
   "item.mod-pierwszy-bartosza.coal_briquette": "Coal Briquette",
+
+  "tooltip.mod-pierwszy-bartosza.metal_detector.tooltip": "Finds valuables underground",
+  "tooltip.mod-pierwszy-bartosza.sound_block.tooltip": "Makes a sweet sound when right-clicked",
 
   "itemgroup.ruby": "Ruby Tutorial Group"
 
