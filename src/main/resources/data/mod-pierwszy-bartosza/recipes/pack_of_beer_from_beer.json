@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "## ",
+    "## ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "mod-pierwszy-bartosza:beer"
+    }
+  },
+  "result": {
+    "item": "mod-pierwszy-bartosza:pack_of_beer"
+  }
+}

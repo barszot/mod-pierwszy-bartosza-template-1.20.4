@@ -31,6 +31,10 @@ public class ModBlocks {
             new ExperienceDroppingBlock(UniformIntProvider.create(4, 7), FabricBlockSettings.copyOf(Blocks.END_STONE).strength(4f)));
     public static final Block SOUND_BLOCK = registerBlock("sound_block",
             new SoundBlock(FabricBlockSettings.copyOf(Blocks.DIRT)));
+
+    public static final Block PACK_OF_BEER = registerBlock("pack_of_beer",
+            new Block(FabricBlockSettings.copyOf(Blocks.DIRT).sounds(BlockSoundGroup.AMETHYST_BLOCK)));
+
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
         return Registry.register(Registries.BLOCK, new Identifier(ModPierwszyBartosza.MOD_ID, name), block);

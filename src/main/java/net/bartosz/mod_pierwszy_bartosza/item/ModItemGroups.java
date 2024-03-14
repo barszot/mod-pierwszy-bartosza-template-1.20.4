@@ -29,7 +29,10 @@ public class ModItemGroups {
                         entries.add(ModItems.TOMATO);
                         entries.add(ModItems.COAL_BRIQUETTE);
 
+                        entries.add(ModBlocks.PACK_OF_BEER);
+
                     }).build());
+
     public static void registerItemGroups() {
         ModPierwszyBartosza.LOGGER.info("Registering Item Groups for " + ModPierwszyBartosza.MOD_ID);
     }

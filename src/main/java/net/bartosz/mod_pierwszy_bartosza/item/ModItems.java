@@ -3,6 +3,7 @@ package net.bartosz.mod_pierwszy_bartosza.item;
 import net.bartosz.mod_pierwszy_bartosza.ModPierwszyBartosza;
 import net.bartosz.mod_pierwszy_bartosza.item.custom.MetalDetectorItem;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
+import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.Item;
@@ -26,6 +27,8 @@ public class ModItems {
     private static void addItemsToFoodAndDrinkItemGroup(FabricItemGroupEntries entries) {
         entries.add(BEER);
     }
+
+
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, new Identifier(ModPierwszyBartosza.MOD_ID, name), item);
     }
