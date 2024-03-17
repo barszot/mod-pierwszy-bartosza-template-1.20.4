@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "mod-pierwszy-bartosza:block/ruby_block"
+  }
+}

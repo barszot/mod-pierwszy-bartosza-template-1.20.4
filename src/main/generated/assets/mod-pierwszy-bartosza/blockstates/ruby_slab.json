@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mod-pierwszy-bartosza:block/ruby_slab"
+    },
+    "type=double": {
+      "model": "mod-pierwszy-bartosza:block/ruby_block"
+    },
+    "type=top": {
+      "model": "mod-pierwszy-bartosza:block/ruby_slab_top"
+    }
+  }
+}

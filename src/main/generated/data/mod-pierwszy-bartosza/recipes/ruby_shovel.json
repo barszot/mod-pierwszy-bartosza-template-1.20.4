@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "R": {
+      "item": "mod-pierwszy-bartosza:ruby"
+    }
+  },
+  "pattern": [
+    " R ",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "mod-pierwszy-bartosza:ruby_shovel"
+  }
+}

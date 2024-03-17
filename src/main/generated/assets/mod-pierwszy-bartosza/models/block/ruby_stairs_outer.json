@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "mod-pierwszy-bartosza:block/ruby_block",
+    "side": "mod-pierwszy-bartosza:block/ruby_block",
+    "top": "mod-pierwszy-bartosza:block/ruby_block"
+  }
+}
