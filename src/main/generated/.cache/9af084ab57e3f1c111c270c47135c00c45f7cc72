@@ -1,0 +1,10 @@
+// 1.20.4	2024-03-17T14:28:01.0507993	mod pierwszy bartosza/Tags for minecraft:block
+3e6c99734f45e9c3dc8042b8eb98309d7a0c54e4 data\minecraft\tags\blocks\fence_gates.json
+4833cf9fe559fd0d26c1655f478ad54e051b7294 data\minecraft\tags\blocks\needs_iron_tool.json
+7153a8ebe67df31be81ac2a857188b84f4144206 data\minecraft\tags\blocks\needs_diamond_tool.json
+1144349dac664b43b5b6166e0783defa182669b4 data\minecraft\tags\blocks\fences.json
+f7cce4062283d4f274f9d49f4187478c24bb8854 data\minecraft\tags\blocks\walls.json
+112da5605806718b3afc6ad7c8a76092fbd86135 data\fabric\tags\blocks\needs_tool_level_4.json
+1b0e3e3b6378b5a3ab706c805f893eb8cefc75cb data\mod-pierwszy-bartosza\tags\blocks\metal_detector_detectable_blocks.json
+66471d54ce7a021481c1a6059d3e1f5b508ed31d data\minecraft\tags\blocks\mineable\pickaxe.json
+b543be803720cf33513bc7c78b3e8cbc6244ed43 data\minecraft\tags\blocks\needs_stone_tool.json

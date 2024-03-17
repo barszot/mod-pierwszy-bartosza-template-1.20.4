@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "mod-pierwszy-bartosza:ruby_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "mod-pierwszy-bartosza:ruby"
+  }
+}

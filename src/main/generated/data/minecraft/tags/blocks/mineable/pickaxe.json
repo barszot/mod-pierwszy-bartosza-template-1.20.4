@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "mod-pierwszy-bartosza:raw_ruby_block",
+    "mod-pierwszy-bartosza:ruby_block",
+    "mod-pierwszy-bartosza:ruby_ore",
+    "mod-pierwszy-bartosza:deepslate_ruby_ore",
+    "mod-pierwszy-bartosza:nether_ruby_ore",
+    "mod-pierwszy-bartosza:end_stone_ruby_ore",
+    "mod-pierwszy-bartosza:sound_block",
+    "mod-pierwszy-bartosza:ruby_wall",
+    "mod-pierwszy-bartosza:ruby_button",
+    "mod-pierwszy-bartosza:ruby_fence",
+    "mod-pierwszy-bartosza:ruby_door",
+    "mod-pierwszy-bartosza:ruby_fence_gate",
+    "mod-pierwszy-bartosza:ruby_pressure_plate",
+    "mod-pierwszy-bartosza:ruby_slab",
+    "mod-pierwszy-bartosza:ruby_stairs",
+    "mod-pierwszy-bartosza:ruby_trapdoor"
+  ]
+}

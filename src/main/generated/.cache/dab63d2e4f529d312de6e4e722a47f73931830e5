@@ -1,0 +1,18 @@
+// 1.20.4	2024-03-17T14:28:01.0507993	mod pierwszy bartosza/Block Loot Tables
+9bef618417e4d7f05d33621b77a2c5d522ff0dbd data\mod-pierwszy-bartosza\loot_tables\blocks\ruby_wall.json
+d16cb2d3852d23f881df392fff52538b00e20bf5 data\mod-pierwszy-bartosza\loot_tables\blocks\sound_block.json
+9a924cffffa06de08647aca12c988f6294db12c3 data\mod-pierwszy-bartosza\loot_tables\blocks\ruby_fence.json
+825eaea297cb0f8466afd34181ba237f554563c0 data\mod-pierwszy-bartosza\loot_tables\blocks\end_stone_ruby_ore.json
+d98a6e689653fa0b3880fcdde1718a747d81ec1b data\mod-pierwszy-bartosza\loot_tables\blocks\ruby_button.json
+a5b5ec4ddf40c221910ba7242ec2cb1c92d17ed4 data\mod-pierwszy-bartosza\loot_tables\blocks\ruby_block.json
+32d250c222e9d61744b916d64c292e72fa842db0 data\mod-pierwszy-bartosza\loot_tables\blocks\ruby_door.json
+440173e8defa7e94015ad9fb69304ebdf05f8547 data\mod-pierwszy-bartosza\loot_tables\blocks\ruby_stairs.json
+c3234383af4d94892459fb32ca800d8ec006d56c data\mod-pierwszy-bartosza\loot_tables\blocks\raw_ruby_block.json
+c60e5d8f6374fd45e6fc973ad9fb8e77c498be29 data\mod-pierwszy-bartosza\loot_tables\blocks\ruby_ore.json
+916baa1efef184a769a3a2026e0053794f21f63c data\mod-pierwszy-bartosza\loot_tables\blocks\pack_of_beer.json
+9bf88b521fad0e41574b7631ef1d1af3251e790f data\mod-pierwszy-bartosza\loot_tables\blocks\ruby_trapdoor.json
+69725f66c1ad264bf13db12cb3b0ef2159de435b data\mod-pierwszy-bartosza\loot_tables\blocks\deepslate_ruby_ore.json
+bd3451f9297170544d4f385c6019b7332d3c9129 data\mod-pierwszy-bartosza\loot_tables\blocks\nether_ruby_ore.json
+d9e152851df9c447e30edd6d95be3bb02e8941cf data\mod-pierwszy-bartosza\loot_tables\blocks\ruby_pressure_plate.json
+a707ef2ca69d27ee2923f81481263e54a08a15c3 data\mod-pierwszy-bartosza\loot_tables\blocks\ruby_fence_gate.json
+88a645ec509815e220248a555e3c6c1c735ccbf2 data\mod-pierwszy-bartosza\loot_tables\blocks\ruby_slab.json
